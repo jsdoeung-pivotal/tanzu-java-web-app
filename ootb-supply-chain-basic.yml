@@ -1,0 +1,4 @@
+registry:
+  server: harbor-repo.vmware.com
+  repository: harbor-repo.vmware.com/dbz/build-service
+gitops.ssh_secret: ""
