@@ -1,4 +1,0 @@
-registry:
-  server: harbor.pks-08.slot-34.tanzu-gss-labs.vmware.com
-  repository: harbor.pks-08.slot-34.tanzu-gss-labs.vmware.com/tap/build-service
-gitops.ssh_secret: ""
